@@ -1,6 +1,6 @@
 # pousse-cafe-deploy
 
-This file provides the required Maven settings for deploying automatically artifacts into SNAPSHOT repositories.
+`snapshot_release_settings.xml` provides the required Maven settings for deploying automatically artifacts into SNAPSHOT repository.
 It requires 2 environment variables to be defined:
 
 - `USER_ID`
